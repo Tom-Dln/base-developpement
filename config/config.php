@@ -3,6 +3,10 @@
 ---------------------------------------------- -->
 
 <?php
+// Informations des Pages
+$pages = [
+    ['index.php', 'Base Développement'],
+];
 // Informations Connexion BDD
 define('BDD_NAME', '');
 define('BDD_USER', '');

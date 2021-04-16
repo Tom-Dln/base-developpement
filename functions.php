@@ -2,3 +2,7 @@
     Fichier de Fonctions
 ---------------------------------------------- -->
 
+<?php
+// Fonctions à placer ici
+
+?>
